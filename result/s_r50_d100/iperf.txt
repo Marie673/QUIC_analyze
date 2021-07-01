@@ -1,0 +1,4 @@
+server:
+sudo: パスワードが必要です
+client:
+sudo: パスワードが必要です
