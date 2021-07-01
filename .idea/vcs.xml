@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/h2o" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quicly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quicly/deps/klib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quicly/deps/picotest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quicly/deps/picotls" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quicly/deps/picotls/deps/picotest" vcs="Git" />
+  </component>
+</project>

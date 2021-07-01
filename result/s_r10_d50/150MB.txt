@@ -1,0 +1,8 @@
+packets-received: 126196, packets-decryption-failed: 0, packets-sent: 6190, packets-lost: 0, ack-received: 6013, late-acked: 0, bytes-received: 160451228, bytes-sent: 222081, srtt: 1019
+real 147.53
+user 2.61
+sys 4.26
+packets-received: 126122, packets-decryption-failed: 0, packets-sent: 6058, packets-lost: 0, ack-received: 5880, late-acked: 0, bytes-received: 160445125, bytes-sent: 217060, srtt: 909
+real 139.47
+user 2.53
+sys 4.04
