@@ -6,3 +6,15 @@ packets-received: 126122, packets-decryption-failed: 0, packets-sent: 6058, pack
 real 139.47
 user 2.53
 sys 4.04
+packets-received: 126129, packets-decryption-failed: 0, packets-sent: 5860, packets-lost: 0, ack-received: 5683, late-acked: 0, bytes-received: 160448426, bytes-sent: 211340, srtt: 833
+real 135.69
+user 2.64
+sys 4.03
+packets-received: 126175, packets-decryption-failed: 0, packets-sent: 6114, packets-lost: 0, ack-received: 5925, late-acked: 0, bytes-received: 160454992, bytes-sent: 220303, srtt: 889
+real 136.18
+user 2.27
+sys 4.45
+packets-received: 126041, packets-decryption-failed: 0, packets-sent: 5993, packets-lost: 0, ack-received: 5814, late-acked: 0, bytes-received: 160443061, bytes-sent: 215364, srtt: 828
+real 141.11
+user 2.37
+sys 3.97
