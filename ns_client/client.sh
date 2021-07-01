@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 # shellcheck disable=SC2054
 target=("10MB" "50MB" "100MB" "150MB")
 time=5

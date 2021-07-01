@@ -14,3 +14,7 @@ packets-received: 84082, packets-decryption-failed: 0, packets-sent: 4270, packe
 real 92.78
 user 1.45
 sys 2.96
+packets-received: 84180, packets-decryption-failed: 0, packets-sent: 4367, packets-lost: 0, ack-received: 4188, late-acked: 0, bytes-received: 106968035, bytes-sent: 155918, srtt: 834
+real 93.14
+user 1.58
+sys 2.96
