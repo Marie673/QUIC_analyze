@@ -1,4 +1,20 @@
 server:
-sudo: パスワードが必要です
+qdisc tbf 1: root refcnt 2 rate 52428Kbit burst 26207b lat 36ms 
+qdisc netem 10: parent 1:1 limit 1000 delay 10ms
+------------------------------------------------------------
+Client connecting to 10.1.1.1, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.2 port 45958 connected with 10.1.1.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3] 0.0000-10.0098 sec  2.35 GBytes  2.01 Gbits/sec
+
 client:
-sudo: パスワードが必要です
+qdisc noqueue 0: root refcnt 2 
+------------------------------------------------------------
+Client connecting to 10.1.1.2, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[  3] local 10.1.1.1 port 57710 connected with 10.1.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3] 0.0000-10.0248 sec  60.4 MBytes  50.5 Mbits/sec

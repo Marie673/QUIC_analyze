@@ -1,20 +1,20 @@
-sudo: パスワードが必要です
-real 0.05
-user 0.00
-sys 0.00
-sudo: パスワードが必要です
-real 0.05
-user 0.00
-sys 0.00
-sudo: パスワードが必要です
-real 0.04
-user 0.00
-sys 0.00
-sudo: パスワードが必要です
-real 0.04
-user 0.00
-sys 0.00
-sudo: パスワードが必要です
-real 0.05
-user 0.00
-sys 0.00
+packets-received: 125671, packets-decryption-failed: 0, packets-sent: 2325, packets-lost: 0, ack-received: 2310, late-acked: 0, bytes-received: 160465074, bytes-sent: 84325, srtt: 167
+real 30.54
+user 1.99
+sys 1.97
+packets-received: 125765, packets-decryption-failed: 0, packets-sent: 2346, packets-lost: 0, ack-received: 2326, late-acked: 0, bytes-received: 160435836, bytes-sent: 85132, srtt: 228
+real 32.79
+user 1.85
+sys 1.83
+packets-received: 125912, packets-decryption-failed: 0, packets-sent: 2314, packets-lost: 0, ack-received: 2296, late-acked: 0, bytes-received: 160440183, bytes-sent: 83860, srtt: 166
+real 31.13
+user 2.00
+sys 2.01
+packets-received: 125966, packets-decryption-failed: 0, packets-sent: 2215, packets-lost: 0, ack-received: 2199, late-acked: 0, bytes-received: 160468311, bytes-sent: 80216, srtt: 165
+real 30.74
+user 2.02
+sys 1.89
+packets-received: 125714, packets-decryption-failed: 0, packets-sent: 2109, packets-lost: 0, ack-received: 2097, late-acked: 0, bytes-received: 160434336, bytes-sent: 75870, srtt: 162
+real 30.59
+user 2.07
+sys 2.01
