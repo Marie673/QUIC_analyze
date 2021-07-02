@@ -1,20 +1,20 @@
-packets-received: 8385, packets-decryption-failed: 0, packets-sent: 533, packets-lost: 0, ack-received: 526, late-acked: 0, bytes-received: 10697161, bytes-sent: 20121, srtt: 160
-real 3.89
+packets-received: 8378, packets-decryption-failed: 0, packets-sent: 91, packets-lost: 0, ack-received: 86, late-acked: 0, bytes-received: 10696913, bytes-sent: 4729, srtt: 53
+real 5.27
 user 0.12
-sys 0.10
-packets-received: 8385, packets-decryption-failed: 0, packets-sent: 733, packets-lost: 0, ack-received: 723, late-acked: 0, bytes-received: 10697167, bytes-sent: 27341, srtt: 173
-real 4.25
-user 0.10
-sys 0.11
-packets-received: 8386, packets-decryption-failed: 0, packets-sent: 518, packets-lost: 0, ack-received: 508, late-acked: 0, bytes-received: 10697221, bytes-sent: 19540, srtt: 163
-real 3.87
-user 0.10
-sys 0.12
-packets-received: 8388, packets-decryption-failed: 0, packets-sent: 457, packets-lost: 0, ack-received: 441, late-acked: 0, bytes-received: 10697277, bytes-sent: 17999, srtt: 161
-real 3.80
-user 0.09
-sys 0.10
-packets-received: 8385, packets-decryption-failed: 0, packets-sent: 575, packets-lost: 0, ack-received: 565, late-acked: 0, bytes-received: 10697152, bytes-sent: 22013, srtt: 157
-real 3.78
+sys 0.06
+packets-received: 8378, packets-decryption-failed: 0, packets-sent: 59, packets-lost: 0, ack-received: 53, late-acked: 0, bytes-received: 10696886, bytes-sent: 3619, srtt: 53
+real 2.83
 user 0.08
-sys 0.12
+sys 0.05
+packets-received: 8379, packets-decryption-failed: 0, packets-sent: 51, packets-lost: 0, ack-received: 48, late-acked: 0, bytes-received: 10696884, bytes-sent: 3307, srtt: 54
+real 2.77
+user 0.04
+sys 0.07
+packets-received: 8376, packets-decryption-failed: 0, packets-sent: 36, packets-lost: 0, ack-received: 34, late-acked: 0, bytes-received: 10696794, bytes-sent: 2720, srtt: 58
+real 2.14
+user 0.08
+sys 0.04
+packets-received: 8373, packets-decryption-failed: 0, packets-sent: 59, packets-lost: 0, ack-received: 55, late-acked: 0, bytes-received: 10696721, bytes-sent: 3634, srtt: 53
+real 2.44
+user 0.08
+sys 0.03

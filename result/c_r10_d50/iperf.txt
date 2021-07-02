@@ -1,13 +1,12 @@
 server:
-qdisc tbf 1: root refcnt 2 rate 104857Kbit burst 52415b lat 36ms 
-qdisc netem 10: parent 1:1 limit 1000 delay 100ms
+qdisc noqueue 0: root refcnt 2 
 ------------------------------------------------------------
 Client connecting to 10.1.1.1, TCP port 5001
 TCP window size: 85.0 KByte (default)
 ------------------------------------------------------------
-[  3] local 10.1.1.2 port 45996 connected with 10.1.1.1 port 5001
+[  3] local 10.1.1.2 port 46050 connected with 10.1.1.1 port 5001
 [ ID] Interval       Transfer     Bandwidth
-[  3] 0.0000-10.8921 sec  13.9 MBytes  10.7 Mbits/sec
+[  3] 0.0000-10.5616 sec  14.3 MBytes  11.3 Mbits/sec
 
 client:
 qdisc tbf 1: root refcnt 2 rate 10485Kbit burst 5241b lat 36ms 
@@ -16,6 +15,6 @@ qdisc netem 10: parent 1:1 limit 1000 delay 50ms
 Client connecting to 10.1.1.2, TCP port 5001
 TCP window size: 85.0 KByte (default)
 ------------------------------------------------------------
-[  3] local 10.1.1.1 port 57748 connected with 10.1.1.2 port 5001
+[  3] local 10.1.1.1 port 57802 connected with 10.1.1.2 port 5001
 [ ID] Interval       Transfer     Bandwidth
-[  3] 0.0000-10.0356 sec   104 MBytes  86.5 Mbits/sec
+[  3] 0.0000-10.0044 sec   508 MBytes   426 Mbits/sec

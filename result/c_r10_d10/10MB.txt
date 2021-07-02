@@ -1,20 +1,20 @@
-packets-received: 8381, packets-decryption-failed: 0, packets-sent: 314, packets-lost: 0, ack-received: 306, late-acked: 0, bytes-received: 10697103, bytes-sent: 12591, srtt: 117
-real 2.97
-user 0.09
-sys 0.14
-packets-received: 8381, packets-decryption-failed: 0, packets-sent: 313, packets-lost: 0, ack-received: 303, late-acked: 0, bytes-received: 10697113, bytes-sent: 12479, srtt: 118
-real 3.03
+packets-received: 8372, packets-decryption-failed: 0, packets-sent: 39, packets-lost: 0, ack-received: 36, late-acked: 0, bytes-received: 10696658, bytes-sent: 2787, srtt: 11
+real 0.65
+user 0.08
+sys 0.01
+packets-received: 8367, packets-decryption-failed: 0, packets-sent: 96, packets-lost: 0, ack-received: 93, late-acked: 0, bytes-received: 10696613, bytes-sent: 4853, srtt: 10
+real 1.31
+user 0.06
+sys 0.04
+packets-received: 8367, packets-decryption-failed: 0, packets-sent: 49, packets-lost: 0, ack-received: 47, late-acked: 0, bytes-received: 10696663, bytes-sent: 3215, srtt: 11
+real 0.79
+user 0.08
+sys 0.03
+packets-received: 8369, packets-decryption-failed: 0, packets-sent: 65, packets-lost: 0, ack-received: 61, late-acked: 0, bytes-received: 10696616, bytes-sent: 3738, srtt: 13
+real 0.98
+user 0.06
+sys 0.06
+packets-received: 8368, packets-decryption-failed: 0, packets-sent: 87, packets-lost: 0, ack-received: 79, late-acked: 0, bytes-received: 10696598, bytes-sent: 4544, srtt: 11
+real 0.89
 user 0.10
-sys 0.11
-packets-received: 8381, packets-decryption-failed: 0, packets-sent: 293, packets-lost: 0, ack-received: 283, late-acked: 0, bytes-received: 10697112, bytes-sent: 12522, srtt: 117
-real 3.02
-user 0.11
-sys 0.10
-packets-received: 8381, packets-decryption-failed: 0, packets-sent: 259, packets-lost: 0, ack-received: 250, late-acked: 0, bytes-received: 10697099, bytes-sent: 11565, srtt: 118
-real 3.04
-user 0.12
-sys 0.07
-packets-received: 8381, packets-decryption-failed: 0, packets-sent: 246, packets-lost: 0, ack-received: 236, late-acked: 0, bytes-received: 10697094, bytes-sent: 10014, srtt: 120
-real 3.06
-user 0.13
-sys 0.07
+sys 0.02

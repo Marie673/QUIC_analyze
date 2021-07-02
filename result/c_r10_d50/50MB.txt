@@ -1,20 +1,20 @@
-packets-received: 41951, packets-decryption-failed: 0, packets-sent: 1530, packets-lost: 0, ack-received: 1526, late-acked: 0, bytes-received: 53480663, bytes-sent: 55453, srtt: 168
-real 11.96
-user 0.52
-sys 0.48
-packets-received: 41973, packets-decryption-failed: 0, packets-sent: 825, packets-lost: 0, ack-received: 809, late-acked: 0, bytes-received: 53481259, bytes-sent: 30288, srtt: 166
-real 11.86
-user 0.53
-sys 0.48
-packets-received: 41944, packets-decryption-failed: 0, packets-sent: 1395, packets-lost: 0, ack-received: 1381, late-acked: 0, bytes-received: 53481936, bytes-sent: 50641, srtt: 175
-real 12.34
-user 0.54
-sys 0.51
-packets-received: 41952, packets-decryption-failed: 0, packets-sent: 967, packets-lost: 0, ack-received: 964, late-acked: 0, bytes-received: 53480557, bytes-sent: 35543, srtt: 161
-real 12.16
-user 0.59
-sys 0.38
-packets-received: 41894, packets-decryption-failed: 0, packets-sent: 910, packets-lost: 0, ack-received: 900, late-acked: 0, bytes-received: 53478726, bytes-sent: 34096, srtt: 153
-real 15.89
+packets-received: 41873, packets-decryption-failed: 0, packets-sent: 565, packets-lost: 0, ack-received: 558, late-acked: 0, bytes-received: 53477890, bytes-sent: 22991, srtt: 62
+real 27.94
+user 0.41
+sys 0.33
+packets-received: 41872, packets-decryption-failed: 0, packets-sent: 433, packets-lost: 0, ack-received: 424, late-acked: 0, bytes-received: 53477728, bytes-sent: 18087, srtt: 59
+real 22.45
 user 0.46
-sys 0.40
+sys 0.20
+packets-received: 41879, packets-decryption-failed: 0, packets-sent: 579, packets-lost: 0, ack-received: 576, late-acked: 0, bytes-received: 53478026, bytes-sent: 23292, srtt: 52
+real 24.35
+user 0.46
+sys 0.22
+packets-received: 41874, packets-decryption-failed: 0, packets-sent: 460, packets-lost: 0, ack-received: 457, late-acked: 0, bytes-received: 53477924, bytes-sent: 19090, srtt: 54
+real 20.37
+user 0.48
+sys 0.22
+packets-received: 41875, packets-decryption-failed: 0, packets-sent: 488, packets-lost: 0, ack-received: 483, late-acked: 0, bytes-received: 53477887, bytes-sent: 19984, srtt: 54
+real 24.56
+user 0.46
+sys 0.24

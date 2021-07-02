@@ -1,0 +1,20 @@
+packets-received: 125447, packets-decryption-failed: 0, packets-sent: 1222, packets-lost: 0, ack-received: 1219, late-acked: 0, bytes-received: 160426155, bytes-sent: 48160, srtt: 10
+real 14.25
+user 1.09
+sys 0.71
+packets-received: 125468, packets-decryption-failed: 0, packets-sent: 1177, packets-lost: 0, ack-received: 1176, late-acked: 0, bytes-received: 160426231, bytes-sent: 46486, srtt: 11
+real 12.39
+user 1.20
+sys 0.48
+packets-received: 125449, packets-decryption-failed: 0, packets-sent: 1067, packets-lost: 0, ack-received: 1063, late-acked: 0, bytes-received: 160425891, bytes-sent: 42349, srtt: 10
+real 12.60
+user 1.18
+sys 0.59
+packets-received: 125444, packets-decryption-failed: 0, packets-sent: 1426, packets-lost: 0, ack-received: 1423, late-acked: 0, bytes-received: 160426192, bytes-sent: 55662, srtt: 10
+real 16.48
+user 1.28
+sys 0.64
+packets-received: 125456, packets-decryption-failed: 0, packets-sent: 1236, packets-lost: 0, ack-received: 1234, late-acked: 0, bytes-received: 160426160, bytes-sent: 48891, srtt: 10
+real 14.18
+user 1.27
+sys 0.48
